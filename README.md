@@ -7,7 +7,10 @@
 ![App Screenshot](https://i.imgur.com/MHKXFMm.png)
 
 ## Sobre
-Projeto (repositório da parte front-end) de um widget de feedback, realizado durante a NLW #08 - Impulse da <a href="https://www.rocketseat.com.br" target="_blank" >Rocketseat</a>.
+Este projeto foi realizado durante a NLW - Return (Trilha Impulse) da <a href="https://www.rocketseat.com.br" target="_blank" >Rocketseat</a> e foi separado em três partes:
+- Front-End
+- [Back-End](https://github.com/bzenky/nlw-return-impulse-backend)
+- [Mobile](https://github.com/bzenky/nlw-return-impulse-app)
 
 ## Rotina
 
